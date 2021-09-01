@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="name.svg" alt="nhienit" />
+</h1>  
+
+
 <h2> Hi, I'm nhienit! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="230">
 <p><em>Learn information security at <a href="http://www.unb.br">Academy Of Cryptography Techniques</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
