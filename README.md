@@ -25,10 +25,10 @@ const nhienit = {
 
 ### Contact me
 
-[<img align="left" alt="wordpress" width="22px" src="https://img.icons8.com/color/48/000000/wordpress.png" />](http://nhienit.wordpress.com/)
-[<img align="left" alt="twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />](https://twitter.com/__nhienit__)
-[<img align="left" alt="github" width="22px" src="https://img.icons8.com/color-glass/48/000000/github.png" />](https://github.com/nhienit2010)
-[<img align="left" alt="spotify" width="22px" src="https://img.icons8.com/fluency/48/000000/spotify.png" />](https://open.spotify.com/user/31bmwgpaid4d3fet75wcvf7rwpja)  
+[<img align="left" alt="wordpress" width="26px" src="https://img.icons8.com/color/48/000000/wordpress.png" />](http://nhienit.wordpress.com/)
+[<img align="left" alt="twitter" width="26px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />](https://twitter.com/__nhienit__)
+[<img align="left" alt="github" width="26px" src="https://img.icons8.com/color-glass/48/000000/github.png" />](https://github.com/nhienit2010)
+[<img align="left" alt="spotify" width="26px" src="https://img.icons8.com/fluency/48/000000/spotify.png" />](https://open.spotify.com/user/31bmwgpaid4d3fet75wcvf7rwpja)  
   
 <br />  
 
