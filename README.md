@@ -28,8 +28,16 @@ const nhienit = {
 [<img align="left" alt="wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />](http://nhienit.wordpress.com/)
 [<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />](https://twitter.com/__nhienit__)
 [<img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](https://github.com/nhienit2010)
-[<img align="left" alt="spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />](https://open.spotify.com/user/31bmwgpaid4d3fet75wcvf7rwpja)
+[<img align="left" alt="spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />](https://open.spotify.com/user/31bmwgpaid4d3fet75wcvf7rwpja)  
+  
+  
+### Programming language  
 
-### Programming language
 <img align="left" alt="wordpress" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
+<img align="left" alt="wordpress" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="wordpress" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img align="left" alt="wordpress" width="26px" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
+<img align="left" alt="wordpress" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" alt="wordpress" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img align="left" alt="wordpress" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 
