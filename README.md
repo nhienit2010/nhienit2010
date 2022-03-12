@@ -22,3 +22,7 @@ const nhienit = {
 }
 ```
 ---
+
+### Contact me
+
+[<img alt="wordpress" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />](http://nhienit.wordpress.com/)
