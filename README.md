@@ -26,3 +26,6 @@ const nhienit = {
 ### Contact me
 
 [<img align="left" alt="wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/wordpress.svg" />](http://nhienit.wordpress.com/)
+[<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />](https://twitter.com/__nhienit__)
+[<img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />](https://github.com/nhienit2010)
+[<img align="left" alt="spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" />](https://open.spotify.com/user/31bmwgpaid4d3fet75wcvf7rwpja)
