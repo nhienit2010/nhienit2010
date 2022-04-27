@@ -10,6 +10,7 @@
 [![Twitter: __nhienit__](https://img.shields.io/twitter/follow/__nhienit__?style=social)](https://twitter.com/__nhienit__)
 [![GitHub nhienit2010](https://img.shields.io/github/followers/nhienit2010?label=follow&style=social)](https://github.com/nhienit2010)
 
+![](https://komarev.com/ghpvc/?username=nhienit2010&color=green)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
