@@ -4,7 +4,7 @@
 
 
 <h2> Hi, I'm nhienit! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="230">
+<img align='right' src="https://media3.giphy.com/media/3o7btXJQm5DD8ApubC/giphy.gif" width="330">
 <p><em>Learn information security at <a href="http://www.unb.br">Academy Of Cryptography Techniques</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 [![Twitter: __nhienit__](https://img.shields.io/twitter/follow/__nhienit__?style=social)](https://twitter.com/__nhienit__)
