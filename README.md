@@ -30,7 +30,8 @@ const nhienit = {
 [<img align="left" alt="twitter" width="35px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />](https://twitter.com/__nhienit__)
 [<img align="left" alt="github" width="35px" src="https://img.icons8.com/color-glass/48/000000/github.png" />](https://github.com/nhienit2010)
 [<img align="left" alt="spotify" width="35px" src="https://img.icons8.com/fluency/48/000000/spotify.png" />](https://open.spotify.com/user/31bmwgpaid4d3fet75wcvf7rwpja)  
-  
+
+ 
 <br />  
 
 ### Programming language  
@@ -51,3 +52,6 @@ const nhienit = {
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/office/16/000000/java-eclipse.png"/>
+
+
+[![nhienit2010's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhienit2010)](https://github.com/anuraghazra/github-readme-stats)
