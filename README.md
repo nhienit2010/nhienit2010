@@ -53,5 +53,12 @@ const nhienit = {
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/office/16/000000/java-eclipse.png"/>
 
+<br />    
 
-[![nhienit2010's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhienit2010)](https://github.com/anuraghazra/github-readme-stats)
+### Github stats
+![nhienit200's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhienit2010&show_icons=true&theme=radical)
+
+<br />
+
+### Top programing language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhienit2010&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
