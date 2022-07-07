@@ -59,6 +59,3 @@ const nhienit = {
 ![nhienit200's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhienit2010&show_icons=true&theme=radical)
 
 <br />
-
-### Top programing language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhienit2010&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
