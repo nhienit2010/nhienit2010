@@ -26,6 +26,7 @@ Nhien Pham (@nhienit)
 #### Awards
 - 2024 Informatica Security Researcher `Hall of Fame`
 - 2023 Zoho Corp Hacker Board `Hall of Fame`
+- 2023 Huntr Q2 Top 1 Leaderboard Monthly
 - 2022 ASEAN Student Contest on Information Security Contest (ASCIS) by VNISA - Finalist
 - 2021 ASEAN Student Contest on Information Security Contest (ASCIS) by VNISA - Second Prize
 
