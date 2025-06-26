@@ -6,6 +6,7 @@ Nhien Pham (@nhienit)
 - Security Engineer @ `Techlab Corporation` (1.2022 - 12.2022) 
 
 #### Education
+- Member of KCSC (KMA Cyber Security Club) @ `Vietnam Academy of Cryptography Techniques`
 - Information Security Student @ `Vietnam Academy of Cryptography Techniques` (2018 - 2023)
 
 #### Certifications
