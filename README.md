@@ -1,6 +1,12 @@
 Nhien Pham (@nhienit)
 ---
 
+#### Profile
+- Penetration Tester & Security Researcher
+- Hackerone Profile: [@nhienit2010](https://hackerone.com/nhienit2010?type=user)
+- Huntr Profile: [@nhienit2010](https://huntr.com/users/nhienit2010)
+- Email: ngocnhien0511@gmail.com
+
 #### Work Experiences
 - Security Engineer @ `Galaxy One` (1.2023 - Now)
 - Security Engineer @ `Techlab Corporation` (1.2022 - 12.2022) 
