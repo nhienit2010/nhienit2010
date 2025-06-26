@@ -8,24 +8,24 @@ Nhien Pham (@nhienit)
 - Email: ngocnhien0511@gmail.com
 
 #### Work Experiences
-- Security Engineer @ `Galaxy One` (1.2023 - Now)
-- Security Engineer @ `Techlab Corporation` (1.2022 - 12.2022) 
+- Security Engineer @ **Galaxy One** (1.2023 - Now)
+- Security Engineer @ **Techlab Corporation** (1.2022 - 12.2022) 
 
 #### Education
-- Member of KCSC (KMA Cyber Security Club) @ `Vietnam Academy of Cryptography Techniques`
-- Information Security Student @ `Vietnam Academy of Cryptography Techniques` (2018 - 2023)
+- Member of KCSC (KMA Cyber Security Club) @ **Vietnam Academy of Cryptography Techniques**
+- Information Security Student @ **Vietnam Academy of Cryptography Techniques** (2018 - 2023)
 
 #### Certifications
-- [OffSec Web Expert (OSWE)](https://www.credential.net/77c9daea-cb6a-4ba7-8552-015d98ae96f0#acc.NaPCUl5n) by `Offsec`
-- [Burp Suite Certified Practitioner](https://portswigger.net/web-security/e/c/821f94f27332d69f) by `PortSwigger's Web Security Academy`
+- [OffSec Web Expert (OSWE)](https://www.credential.net/77c9daea-cb6a-4ba7-8552-015d98ae96f0#acc.NaPCUl5n) by **Offsec**
+- [Burp Suite Certified Practitioner](https://portswigger.net/web-security/e/c/821f94f27332d69f) by **PortSwigger's Web Security Academy**
 
 #### Publications
 - Technical [write-up](https://nhienit.wordpress.com/2024/10/02/manageengine-adaudit-plus-from-sqli-to-rce/) about SQL Injection leads to Remote Code Execution (RCE) on ManageEngine ADAudit Plus
 - Authored a technical [write-up](https://blog.huntr.com/critical-path-traversal-flaw-leads-to-remote-code-execution-in-parisneo/lollms) on CVE-2024-5443 (Remote Code Execution) published on the Huntr Blog
 
 #### Awards
-- 2024 Informatica Security Researcher `Hall of Fame`
-- 2023 Zoho Corp Hacker Board `Hall of Fame`
+- 2024 Informatica Security Researcher **Hall of Fame**
+- 2023 Zoho Corp Hacker Board **Hall of Fame**
 - 2023 Huntr Q2 Top 1 Leaderboard Monthly
 - 2022 ASEAN Student Contest on Information Security Contest (ASCIS) by VNISA - Finalist
 - 2021 ASEAN Student Contest on Information Security Contest (ASCIS) by VNISA - Second Prize
