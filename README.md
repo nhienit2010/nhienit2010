@@ -24,8 +24,9 @@ Nhien Pham (@nhienit)
 - Authored a technical [write-up](https://blog.huntr.com/critical-path-traversal-flaw-leads-to-remote-code-execution-in-parisneo/lollms) on CVE-2024-5443 (Remote Code Execution) published on the Huntr Blog
 
 #### Awards
+- 2025 Adobe Researcher **Hall of Fame**
 - 2024 Informatica Security Researcher **Hall of Fame**
-- 2024 LG Electronics Vulnerability Report & Reward
+- 2024 LG Electronics **Vulnerability Report & Reward**
 - 2023 Zoho Corp Hacker Board **Hall of Fame**
 - 2023 Huntr Q2 Top 1 Leaderboard Monthly
 - 2022 ASEAN Student Contest on Information Security Contest (ASCIS) by VNISA - Finalist
