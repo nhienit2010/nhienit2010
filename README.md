@@ -34,7 +34,7 @@ Nhien Pham (@nhienit)
 
 #### Vulnerability Disclosure
 ##### Adobe ColdFusion
-- CVE-2025-49538: Authentication Bypass leads to XXE
+- CVE-2025-49538: Authentication Bypass leads to XML external entity (XXE) injection
 ##### Apache Airflow
 - [CVE-2025-50213](https://lists.apache.org/thread/2kqfmyt2pghg5f6797g8hzvq331v8qx3): Apache Airflow Providers Snowflake: Potential SQL Injection in CopyFromExternalStageToSnowflakeOperator
 - [CVE-2024-45498](https://lists.apache.org/thread/tl7lzczcqdmqj2pcpbvtjdpd2tb9561n): Apache Airflow: An authenticated Command Injection in an example DAG
