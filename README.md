@@ -34,8 +34,11 @@ Nhien Pham (@nhienit)
 
 #### Vulnerability Disclosure
 ##### Adobe ColdFusion
-- CVE-2025-54261: Arbitrary file system write leads to remote code execution (RCE)
-- CVE-2025-49538: Authentication Bypass leads to XML external entity (XXE) injection
+- [CVE-2025-54261](https://helpx.adobe.com/security/products/coldfusion/apsb25-93.html): Arbitrary File Write vulnerability leads to Remote Code Execution (RCE)
+- [#3271178](https://hackerone.com/reports/3271178): Authenticated Blind XML External Entity (XXE) injection 
+- [#3173642](https://hackerone.com/reports/3173642): Arbitrary File Write vulnerability leads to Remote Code Execution (RCE)
+- [#3172963](https://hackerone.com/reports/3172963): Path Traversal vulnerability leads to Arbitrary File Deletion
+- [CVE-2025-49538](https://helpx.adobe.com/security/products/coldfusion/apsb25-69.html): Authentication Bypass leads to XML External Entity (XXE) injection
 ##### Apache Airflow
 - [CVE-2025-50213](https://lists.apache.org/thread/2kqfmyt2pghg5f6797g8hzvq331v8qx3): Apache Airflow Providers Snowflake: Potential SQL Injection in CopyFromExternalStageToSnowflakeOperator
 - [CVE-2024-45498](https://lists.apache.org/thread/tl7lzczcqdmqj2pcpbvtjdpd2tb9561n): Apache Airflow: An authenticated Command Injection in an example DAG
