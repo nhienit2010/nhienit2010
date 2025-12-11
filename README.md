@@ -58,7 +58,11 @@ Nhien Pham (@nhienit)
 - [CVE-2024-4881](https://huntr.com/bounties/94f7f901-80b0-4cf5-b545-ac5c1e7635e9): LoLLMs Path Traversal Local File Read Vulnerability
 - [CVE-2024-1699](https://huntr.com/bounties/b9af5c60-b906-422b-afbc-07086cdc643e): PaddlePaddle Command Injection Remote Code Execution Vulnerability
 ### 2023
+- [CVE-2023-3491](#): FossBilling Arbitrary File Upload Remote Code Execution Vulnerability
+- [CVE-2023-3490](#): FossBilling Pre-authentication Sql Injection Vulnerability
 - [CVE-2023-3026](https://huntr.com/bounties/9bbcc127-1e69-4c88-b318-d2afef48eff0): Draw.io Cross-Site Scripting Vulnerability
+- [CVE-2023-29770](#): Sentrifugo Arbitrary File Upload Remote Code Execution Vulnerability
+- [CVE-2023-29769](#): Sentrifugo Pre-authentication Sql Injection Authentication Bypass Vulnerability
 
 
 
