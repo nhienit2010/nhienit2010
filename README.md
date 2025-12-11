@@ -33,37 +33,6 @@ Nhien Pham (@nhienit)
 - 2021 ASEAN Student Contest on Information Security Contest (ASCIS) by VNISA - Second Prize
 
 #### Vulnerability Disclosure
-**CVE-2025-54261: Adobe ColdFusion Arbitrary File Write Remote Code Execution Vulnerability**
-```
-CVSS:10.0 AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
-```
-**CVE-2025-61823: Adobe ColdFusion Authenticated Blind XML External Entity Injection Vulnerability**
-```
-CVSS:6.2 AV:A/AC:L/PR:H/UI:N/S:C/C:N/I:H/A:N
-```
-##### CVE-2025-61822: Adobe ColdFusion Path Traversal Arbitrary File Deletion Vulnerability
-```
-CVSS:6.2 AV:A/AC:L/PR:H/UI:N/S:C/C:N/I:H/A:N
-```
-##### CVE-2025-61812: Adobe ColdFusion Arbitrary File Write Remote Code Execution Vulnerablity
-```
-CVSS:8.4 AV:A/AC:L/PR:H/UI:N/S:C/C:H/I:H/A:H
-```
-##### CVE-2025-49538: Adobe ColdFusion Authentication Bypass XML External Entity Injection Vulnerability
-```
-CVSS:7.4 AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:H
-```
-##### CVE-2025-50213: Apache Airflow Sql Injection Vulnerability
-```
-CVSS:Low
-```
-##### CVE-2024-45498: Apache Airflow Command Injection Remote Code Execution Vulnerability
-```
-CVSS:Low
-```
-
-
-
 ##### Adobe ColdFusion
 - [CVE-2025-54261](https://helpx.adobe.com/security/products/coldfusion/apsb25-93.html): Arbitrary File Write vulnerability leads to Remote Code Execution (RCE)
 - [CVE-2025-61823](https://helpx.adobe.com/security/products/coldfusion/apsb25-105.html): Authenticated Blind XML External Entity (XXE) injection 
