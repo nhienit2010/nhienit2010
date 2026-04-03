@@ -42,9 +42,6 @@ Nhien Pham (@nhienit)
 - [CVE-2025-50213](https://lists.apache.org/thread/2kqfmyt2pghg5f6797g8hzvq331v8qx3): Apache Airflow Providers Snowflake Sql Injection Vulnerability
 ### 2024
 - [CVE-2024-45498](https://lists.apache.org/thread/tl7lzczcqdmqj2pcpbvtjdpd2tb9561n): Apache Airflow Authenticated Command Injection Remote Code Execution Vulnerability
-- [CVE-2023-48792](https://www.manageengine.com/products/active-directory-audit/sqlfix-7271.html): ME ADAudit Plus Authenticated Sql Injection Remote Code Execution Vulnerability
-- [CVE-2023-48793](https://www.manageengine.com/products/active-directory-audit/sqlfix-7271.html): ME ADAudit Plus Authenticated Sql Injection Remote Code Execution Vulnerability
-- [CVE-2023-49335](https://www.manageengine.com/products/active-directory-audit/sqlfix-7271.html): ME ADAudit Plus Authenticated Sql Injection Remote Code Execution Vulnerability
 - [CVE-2024-21791](https://www.manageengine.com/products/active-directory-audit/sqlfix-7271.html): ME ADAudit Plus Authenticated Sql Injection Remote Code Execution Vulnerability
 - [CVE-2024-36518](https://www.manageengine.com/products/active-directory-audit/cve-2024-36518.html): ME ADAudit Plus Authenticated Sql Injection Remote Code Execution Vulnerability
 - [CVE-2024-5487](https://www.manageengine.com/products/active-directory-audit/cve-2024-5487.html): ME ADAudit Plus Authenticated Sql Injection Remote Code Execution Vulnerability
@@ -58,6 +55,9 @@ Nhien Pham (@nhienit)
 - [CVE-2024-4881](https://huntr.com/bounties/94f7f901-80b0-4cf5-b545-ac5c1e7635e9): LoLLMs Path Traversal Local File Read Vulnerability
 - [CVE-2024-1699](https://huntr.com/bounties/b9af5c60-b906-422b-afbc-07086cdc643e): PaddlePaddle Command Injection Remote Code Execution Vulnerability
 ### 2023
+- [CVE-2023-48792](https://www.manageengine.com/products/active-directory-audit/sqlfix-7271.html): ME ADAudit Plus Authenticated Sql Injection Remote Code Execution Vulnerability
+- [CVE-2023-48793](https://www.manageengine.com/products/active-directory-audit/sqlfix-7271.html): ME ADAudit Plus Authenticated Sql Injection Remote Code Execution Vulnerability
+- [CVE-2023-49335](https://www.manageengine.com/products/active-directory-audit/sqlfix-7271.html): ME ADAudit Plus Authenticated Sql Injection Remote Code Execution Vulnerability
 - [CVE-2023-3491](#): FossBilling Arbitrary File Upload Remote Code Execution Vulnerability
 - [CVE-2023-3490](#): FossBilling Pre-authentication Sql Injection Vulnerability
 - [CVE-2023-3026](https://huntr.com/bounties/9bbcc127-1e69-4c88-b318-d2afef48eff0): Draw.io Cross-Site Scripting Vulnerability
