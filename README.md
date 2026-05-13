@@ -24,6 +24,7 @@ Nhien Pham (@nhienit)
 - Authored a technical [write-up](https://blog.huntr.com/critical-path-traversal-flaw-leads-to-remote-code-execution-in-parisneo/lollms) on CVE-2024-5443 (Remote Code Execution) published on the Huntr Blog
 
 ## Awards
+- 2026 MSRC Q1 Leaderboard
 - 2025 Adobe Researcher **Hall of Fame**
 - 2024 Informatica Security Researcher **Hall of Fame**
 - 2024 LG Electronics **Vulnerability Report & Reward**
@@ -35,6 +36,8 @@ Nhien Pham (@nhienit)
 ## Vulnerability Disclosure
 ### 2026
 - Updating ...
+- [CVE-2026-40417](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40417): Microsoft Dynamics 365 Business Central Elevation of Privilege Vulnerability
+- [CVE-2026-21672](https://www.veeam.com/kb4831): Veeam Backup & Replication Local Privilege Escalation Vulnerability
 ### 2025
 - [CVE-2025-54261](https://helpx.adobe.com/security/products/coldfusion/apsb25-93.html): Adobe ColdFusion Arbitrary File Write Remote Code Execution Vulnerability
 - [CVE-2025-61823](https://helpx.adobe.com/security/products/coldfusion/apsb25-105.html): Adobe ColdFusion Authenticated Blind XML External Entity Injection Vulnerability 
