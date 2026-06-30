@@ -37,8 +37,8 @@ Nhien Pham (@nhienit)
 ### 2026
 - Updating ...
 - [CVE-2026-40417](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40417): Microsoft Dynamics 365 Business Central Elevation of Privilege Vulnerability
-- [CVE-2026-21672](https://www.veeam.com/kb4831): Veeam Backup & Replication Local Privilege Escalation Vulnerability
-- [CVE-2026-21666](https://www.veeam.com/kb4831): Veeam Backup & Replication Remote Code Execution Vulnerability
+- [CVE-2026-21672](https://www.veeam.com/kb4830): Veeam Backup & Replication Local Privilege Escalation Vulnerability
+- [CVE-2026-21666](https://www.veeam.com/kb4830): Veeam Backup & Replication Remote Code Execution Vulnerability
 ### 2025
 - [CVE-2025-54261](https://helpx.adobe.com/security/products/coldfusion/apsb25-93.html): Adobe ColdFusion Arbitrary File Write Remote Code Execution Vulnerability
 - [CVE-2025-61823](https://helpx.adobe.com/security/products/coldfusion/apsb25-105.html): Adobe ColdFusion Authenticated Blind XML External Entity Injection Vulnerability 
